@@ -1,0 +1,7 @@
+C:\ajay\My Projects\NewProject\API\MachineTest\MachineTest\obj\Debug\net8.0\MachineTest.csproj.AssemblyReference.cache
+C:\ajay\My Projects\NewProject\API\MachineTest\MachineTest\obj\Debug\net8.0\MachineTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\ajay\My Projects\NewProject\API\MachineTest\MachineTest\obj\Debug\net8.0\MachineTest.AssemblyInfoInputs.cache
+C:\ajay\My Projects\NewProject\API\MachineTest\MachineTest\obj\Debug\net8.0\MachineTest.AssemblyInfo.cs
+C:\ajay\My Projects\NewProject\API\MachineTest\MachineTest\obj\Debug\net8.0\MachineTest.csproj.CoreCompileInputs.cache
+C:\ajay\My Projects\NewProject\API\MachineTest\MachineTest\obj\Debug\net8.0\MachineTest.MvcApplicationPartsAssemblyInfo.cs
+C:\ajay\My Projects\NewProject\API\MachineTest\MachineTest\obj\Debug\net8.0\MachineTest.MvcApplicationPartsAssemblyInfo.cache

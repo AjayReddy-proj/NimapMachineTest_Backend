@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cgje9SCCyVFRnXAzDoRpJjaS5TPoDlX0wAUS8Pcd6FA=",
+  "Source": "MachineTestAPI",
+  "BasePath": "_content/MachineTestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
